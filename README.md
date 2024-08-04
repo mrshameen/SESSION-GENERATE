@@ -8,7 +8,7 @@ Get New Version__😎✔
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center">
 <a href="https://github.com/mrshameen">
-    <img src="https://telegra.ph/file/10e670f2babfe639b51da.jpg" width="700px">
+    <img src="https://telegra.ph/file/9c19f57b2f8043bcd3c8d.jpg" width="700px">
   </a>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
